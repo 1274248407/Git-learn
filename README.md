@@ -5,7 +5,7 @@ Crash course : [Git and GitHub for Beginners - Crash Course --freeCodeCamp.org](
 
 ------------
 
-Here are the comment I've taken the bug
+## Here are the comment I've taken the bug
 
 + Git push command
 ```
