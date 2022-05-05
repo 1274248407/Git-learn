@@ -1,13 +1,4 @@
-# git branch
-
-watch tutorial on youtube
-=======
-## git branch are feature
-
-there
-
-=======
-# git branch main
+`# git branch main
 
 ## git branch are feature
 ---------
