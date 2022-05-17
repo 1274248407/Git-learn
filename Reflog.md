@@ -35,7 +35,7 @@ restore commit to other new branch
 1. 
 ```bash
     $ git branch Reflog a1cdc32 ## add new branch and restore the commit
-    $ git log Reflog 
+    $ git log Reflog  
 commit a1cdc3230c0d490cededa96bc6929ca79a4e5e5b (HEAD -> main, Reflog)
 Author: 1274248407 <1274248407@github.com>
 Date:   Fri May 13 19:17:46 2022 +0800

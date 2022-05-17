@@ -1,0 +1,3 @@
+[submodule "Test_submodule/GCC-and-GDB-"]
+	path = Test_submodule/GCC-and-GDB-
+	url = git@github.com:1274248407/GCC-and-GDB-.git
