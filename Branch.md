@@ -1,7 +1,5 @@
 # git branch
 
-watch tutorial on youtube
-=======
 HEAD Branch == master branch ~= ROOT user on Linux (Temporary)
 ## Creating new branch
 ```bash
@@ -42,6 +40,7 @@ Branch 'new_test_branch' set up to track remote branch 'new_test_branch' from 'o
 # already pushed the 'new_test_branch' branch
     $ git branch -d new_test_branch 
 Deleted branch new_test_branch (was b093c5d).
+
     $ git branch 
   Branch_rename
   Rebase
@@ -84,4 +83,17 @@ Switched to a new branch 'new_test_branch'
 * new_test_branch # here
   quick-test
 ```
+## Pulling + pushing branches (committed different both the local and remote)
+```bash
+    $ git status 
+On branch git_extention
+Your branch and 'origin/main' have diverged,
+and have 13 and 8 different commits each, respectively.
+    $ git branch -v
+* git_extention   035a9c7 [ahead 13, behind 8] added
+```
+**[ahead 13, behind 8]**
+  + local: 13 commit not pushed *(ahead 13)*
+  + remote 8 commit pushed *(behind 8)*
+  + 
 
