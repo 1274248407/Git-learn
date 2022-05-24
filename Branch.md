@@ -1,5 +1,11 @@
 # git branch
 
+- [Creating new branch](#creating-new-branch)
+- [Switching branch](#switching-branch)
+- [Switching branch](#switching-branch)
+- []
+- 
+
 HEAD Branch == master branch ~= ROOT user on Linux (Temporary)
 ## Creating new branch
 ```bash
