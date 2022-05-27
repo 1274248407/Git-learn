@@ -1,10 +1,13 @@
 # git branch
-
-- [Creating new branch](#creating-new-branch)
-- [Switching branch](#switching-branch)
-- [Switching branch](#switching-branch)
-- []
-- 
+- [git branch](#git-branch)
+  - [Creating new branch](#creating-new-branch)
+  - [Switching branch](#switching-branch)
+  - [Renaming branch](#renaming-branch)
+  - [Publishing branch](#publishing-branch)
+  - [Tracking branch (local branch connection remote branch)](#tracking-branch-local-branch-connection-remote-branch)
+    - [Other method connection](#other-method-connection)
+  - [Pulling + pushing branches (committed different both the local and remote)](#pulling--pushing-branches-committed-different-both-the-local-and-remote)
+  - [Comparing Branch (commit different)](#comparing-branch-commit-different)
 
 HEAD Branch == master branch ~= ROOT user on Linux (Temporary)
 ## Creating new branch

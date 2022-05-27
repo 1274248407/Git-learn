@@ -1,7 +1,10 @@
 # Git-learn
 Start date : 5/3/2022
 
-Crash course : [Git and GitHub for Beginners - Crash Course --freeCodeCamp.org](https://www.youtube.com/watch?v=RGOj5yH7evk&t=600s&ab_channel=freeCodeCamp.org)
+Crash course :
+1. [Git and GitHub for Beginners - Crash Course --freeCodeCamp.org](https://www.youtube.com/watch?v=RGOj5yH7evk&t=600s&ab_channel=freeCodeCamp.org) 
+2. [Git Branches Tutorial](https://www.youtube.com/watch?v=e2IbNHi4uCI&ab_channel=freeCodeCamp.org)
+3. [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=1655s&ab_channel=freeCodeCamp.org)
 
 ------------
 

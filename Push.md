@@ -1,4 +1,4 @@
-
+## Push bug
 ```
 > ! [rejected]        main -> main (fetch first)
 > error: failed to push some refs to 'git@github.com:1274248407/Markdown_learned.git'
